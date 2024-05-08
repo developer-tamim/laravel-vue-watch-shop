@@ -6,6 +6,7 @@
 
 import './bootstrap';
 import { createApp } from 'vue';
+import AddToCartButton from './components/AddToCartButton.vue';
 
 
 /**
@@ -15,12 +16,11 @@ import { createApp } from 'vue';
 */
 
 const app = createApp({});
+app.component('add-to-cart-button', AddToCartButton);
 
 // import ExampleComponent from './components/ExampleComponent.vue';
 // app.component('example-component', ExampleComponent);
 
-import AddToCartButton from './components/AddToCartButton.vue';
-app.component('add-to-cart-button', AddToCartButton);
 
 // Vue.component('add-to-cart-button', require('./components/AddToCartButton.vue').default);
 

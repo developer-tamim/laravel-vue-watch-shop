@@ -12,19 +12,19 @@
     <!--bootstrap css-->
     <link rel="stylesheet" type="text/css" href="{{ asset('css/bootstrap.min.css') }}">
     <!--owl carousel css-->
-    <link rel="stylesheet" type="text/css" href="{{asset('css/owl.carousel.min.css')}}">
+    <link rel="stylesheet" type="text/css" href="{{ asset('css/owl.carousel.min.css') }}">
     <!--magnific popup css-->
-    <link rel="stylesheet" type="text/css" href="{{asset('css/magnific-popup.css')}}">
+    <link rel="stylesheet" type="text/css" href="{{ asset('css/magnific-popup.css') }}">
     <!--icomoon css-->
-    <link rel="stylesheet" type="text/css" href="{{asset('css/icomoon.css')}}">
+    <link rel="stylesheet" type="text/css" href="{{ asset('css/icomoon.css') }}">
     <!--icofont css-->
-    <link rel="stylesheet" type="text/css" href="{{asset('css/icofont.min.css')}}">
+    <link rel="stylesheet" type="text/css" href="{{ asset('css/icofont.min.css') }}">
     <!--animate css-->
-    <link rel="stylesheet" type="text/css" href="{{asset('css/animate.css')}}">
+    <link rel="stylesheet" type="text/css" href="{{ asset('css/animate.css') }}">
     <!--main css-->
-    <link rel="stylesheet" type="text/css" href="{{asset('css/style.css')}}">
+    <link rel="stylesheet" type="text/css" href="{{ asset('css/style.css') }}">
     <!--responsive css-->
-    <link rel="stylesheet" type="text/css" href="{{asset('css/responsive.css')}}">
+    <link rel="stylesheet" type="text/css" href="{{ asset('css/responsive.css') }}">
 
 </head>
 
@@ -48,7 +48,8 @@
                 <div class="container">
                     <!-- Logo -->
                     <a class="logo" href="#"><img src="images/logo.png" alt="logo"></a>
-                    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarContent" aria-controls="navbarContent" aria-expanded="false" aria-label="Toggle navigation">
+                    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarContent"
+                        aria-controls="navbarContent" aria-expanded="false" aria-label="Toggle navigation">
                         <span class="icon-bar"><i class="icofont-navigation-menu"></i></span>
                     </button>
                     <!-- navbar links -->
@@ -91,7 +92,8 @@
                     <div class="caption d-table">
                         <div class="d-table-cell align-middle">
                             <h1>Smart Digital Watch For Luxurious Life</h1>
-                            <p>Donec nec justo eget felis facilisis fermentum. Aliquam porttitor mauris sit amet orci. Aenean dignissim pellentesque felis.</p>
+                            <p>Donec nec justo eget felis facilisis fermentum. Aliquam porttitor mauris sit amet orci.
+                                Aenean dignissim pellentesque felis.</p>
                             <a href="#product-area">Buy Products</a>
                         </div>
                     </div>
@@ -116,7 +118,8 @@
                 <div class="col-lg-6 offset-lg-3 col-md-8 offset-md-2">
                     <div class="section-heading text-center">
                         <h2>Product Features</h2>
-                        <p>Donec nec justo eget felis facilisis fermentum. Aliquam porttitor mauris sit amet orci. Aenean dignissim pellentesque felis.</p>
+                        <p>Donec nec justo eget felis facilisis fermentum. Aliquam porttitor mauris sit amet orci.
+                            Aenean dignissim pellentesque felis.</p>
                     </div>
                 </div>
             </div>
@@ -184,7 +187,8 @@
                 <div class="col-md-6">
                     <div class="about-info">
                         <h2>About The Product</h2>
-                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Corrupti, neque ipsam repudiandae nam ratione voluptates!</p>
+                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Corrupti, neque ipsam repudiandae
+                            nam ratione voluptates!</p>
                         <ul>
                             <li><i class="icofont-check"></i> Model No #240 Blackmart</li>
                             <li><i class="icofont-check"></i> Camera Resulation 24 Mega Pixel</li>
@@ -209,8 +213,11 @@
                 <div class="col-md-6">
                     <div class="video-cont">
                         <h2>Best Product For You. Check The Demo Video.</h2>
-                        <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Donec odio. Quisque volutpat mattis eros. Nullam malesuada erat ut turpis. Suspendisse urna nibh, viverra non, semper suscipit, posuere a, pede.</p>
-                        <p>Donec nec justo eget felis facilisis fermentum. Aliquam porttitor mauris sit amet orci. Aenean dignissim pellentesque felis.</p>
+                        <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Donec odio. Quisque volutpat mattis
+                            eros. Nullam malesuada erat ut turpis. Suspendisse urna nibh, viverra non, semper suscipit,
+                            posuere a, pede.</p>
+                        <p>Donec nec justo eget felis facilisis fermentum. Aliquam porttitor mauris sit amet orci.
+                            Aenean dignissim pellentesque felis.</p>
                     </div>
                 </div>
                 <!--end video content-->
@@ -219,7 +226,9 @@
                     <div class="video-box">
                         <div class="d-table text-center">
                             <div class="d-table-cell align-middle">
-                                <a class="popup-video mfp-iframe" href="https://www.youtube.com/watch?v=om4qTKMuPPs"><i class="icofont-ui-play"></i></a>
+                                <a class="popup-video mfp-iframe"
+                                    href="https://www.youtube.com/watch?v=om4qTKMuPPs"><i
+                                        class="icofont-ui-play"></i></a>
                             </div>
                         </div>
                     </div>
@@ -237,7 +246,8 @@
                 <div class="col-lg-6 offset-lg-3 col-md-8 offset-md-2">
                     <div class="section-heading text-center">
                         <h2>Why Choose The Product</h2>
-                        <p>Donec nec justo eget felis facilisis fermentum. Aliquam porttitor mauris sit amet orci. Aenean dignissim pellentesque felis.</p>
+                        <p>Donec nec justo eget felis facilisis fermentum. Aliquam porttitor mauris sit amet orci.
+                            Aenean dignissim pellentesque felis.</p>
                     </div>
                 </div>
             </div>
@@ -304,37 +314,45 @@
                 <div class="col-lg-6 offset-lg-3 col-md-8 offset-md-2">
                     <div class="section-heading text-center">
                         <h2>Our Awesome Products</h2>
-                        <p>Donec nec justo eget felis facilisis fermentum. Aliquam porttitor mauris sit amet orci. Aenean dignissim pellentesque felis.</p>
+                        <p>Donec nec justo eget felis facilisis fermentum. Aliquam porttitor mauris sit amet orci.
+                            Aenean dignissim pellentesque felis.</p>
                     </div>
                 </div>
             </div>
 
 
-            <div class="row">
-                <!--start product single-->
-                @foreach ( $products as $product )
+            <div id="app">
+                <div class="row">
 
-                <div class="col-md-6">
-                    <div class="product-single row">
-                        <div class="product-img text-center col-lg-6">
-                            <img src="images/{{ $product->image_name }}" class="img-fluid" alt="Image">
+                    <!--start product single-->
+
+                    @foreach ($products as $product)
+                        <div class="col-md-6">
+                            <div class="product-single row">
+                                <div class="product-img text-center col-lg-6">
+                                    <img src="images/{{ $product->image_name }}" class="img-fluid" alt="Image">
+                                </div>
+                                <div class="product-cont col-lg-6">
+                                    <h4>{{ $product->name }}</h4>
+                                    {!! $product->description !!}
+                                    <h3>${{ $product->sale_price }} <del><sup>${{ $product->price }}</sup></del></h3>
+
+
+
+
+                                    <add-to-cart-button />
+
+                                    {{-- <a href><i class="icon-shopping-cart2"></i> Add to Cart</a> --}}
+
+
+                                </div>
+                            </div>
                         </div>
-                        <div class="product-cont col-lg-6">
-                            <h4>{{ $product->name }}</h4>
-                            {!! $product->description !!}
-                            <h3>${{ $product->sale_price }} <del><sup>${{ $product->price }}</sup></del></h3>
+                    @endforeach
 
-                            {{-- <add-to-cart-button/> --}}
-                            <add-to-cart-button></add-to-cart-button>
+                    <!--end product single-->
 
-                        </div>
-                    </div>
                 </div>
-
-                @endforeach
-
-                <!--end product single-->
-
             </div>
 
 
@@ -351,7 +369,8 @@
                 <div class="col-lg-6 offset-lg-3 col-md-8 offset-md-2">
                     <div class="section-heading text-center">
                         <h2 class="text-white">Subscribe Our Newsletter</h2>
-                        <p class="text-white">Donec nec justo eget felis facilisis fermentum. Aliquam porttitor mauris sit amet orci. Aenean dignissim pellentesque felis.</p>
+                        <p class="text-white">Donec nec justo eget felis facilisis fermentum. Aliquam porttitor mauris
+                            sit amet orci. Aenean dignissim pellentesque felis.</p>
                     </div>
                 </div>
             </div>
@@ -380,7 +399,8 @@
                 <div class="col-lg-6 offset-lg-3 col-md-8 offset-md-2">
                     <div class="section-heading text-center">
                         <h2>Frequently Asked Questions</h2>
-                        <p>Donec nec justo eget felis facilisis fermentum. Aliquam porttitor mauris sit amet orci. Aenean dignissim pellentesque felis.</p>
+                        <p>Donec nec justo eget felis facilisis fermentum. Aliquam porttitor mauris sit amet orci.
+                            Aenean dignissim pellentesque felis.</p>
                     </div>
                 </div>
                 <!--end heading-->
@@ -393,11 +413,17 @@
                         <div class="card">
                             <div class="card-header" role="tab" id="faq1">
                                 <h5 class="mb-0">
-                                    <a data-toggle="collapse" href="#collapse1" aria-expanded="false" aria-controls="collapse1">How can I buy the watch?</a>
+                                    <a data-toggle="collapse" href="#collapse1" aria-expanded="false"
+                                        aria-controls="collapse1">How can I buy the watch?</a>
                                 </h5>
                             </div>
-                            <div id="collapse1" class="collapse" role="tabpanel" aria-labelledby="faq1" data-parent="#accordion2">
-                                <div class="card-body">Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Phasellus hendrerit. Pellentesque aliquet nibh nec urna. In nisi neque, aliquet vel, dapibus id, mattis vel, nisi. Sed pretium, ligula sollicitudin laoreet viverra, tortor libero sodales leo, eget blandit nunc tortor eu nibh. Nullam mollis. Ut justo. Suspendisse potenti.</div>
+                            <div id="collapse1" class="collapse" role="tabpanel" aria-labelledby="faq1"
+                                data-parent="#accordion2">
+                                <div class="card-body">Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
+                                    Phasellus hendrerit. Pellentesque aliquet nibh nec urna. In nisi neque, aliquet vel,
+                                    dapibus id, mattis vel, nisi. Sed pretium, ligula sollicitudin laoreet viverra,
+                                    tortor libero sodales leo, eget blandit nunc tortor eu nibh. Nullam mollis. Ut
+                                    justo. Suspendisse potenti.</div>
                             </div>
                         </div>
                         <!--end faq single-->
@@ -405,11 +431,17 @@
                         <div class="card">
                             <div class="card-header" role="tab" id="faq2">
                                 <h5 class="mb-0">
-                                    <a class="collapsed" data-toggle="collapse" href="#collapse2" aria-expanded="false" aria-controls="collapse2">How can I order the watch?</a>
+                                    <a class="collapsed" data-toggle="collapse" href="#collapse2"
+                                        aria-expanded="false" aria-controls="collapse2">How can I order the watch?</a>
                                 </h5>
                             </div>
-                            <div id="collapse2" class="collapse" role="tabpanel" aria-labelledby="faq2" data-parent="#accordion2">
-                                <div class="card-body">Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Phasellus hendrerit. Pellentesque aliquet nibh nec urna. In nisi neque, aliquet vel, dapibus id, mattis vel, nisi. Sed pretium, ligula sollicitudin laoreet viverra, tortor libero sodales leo, eget blandit nunc tortor eu nibh. Nullam mollis. Ut justo. Suspendisse potenti.</div>
+                            <div id="collapse2" class="collapse" role="tabpanel" aria-labelledby="faq2"
+                                data-parent="#accordion2">
+                                <div class="card-body">Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
+                                    Phasellus hendrerit. Pellentesque aliquet nibh nec urna. In nisi neque, aliquet vel,
+                                    dapibus id, mattis vel, nisi. Sed pretium, ligula sollicitudin laoreet viverra,
+                                    tortor libero sodales leo, eget blandit nunc tortor eu nibh. Nullam mollis. Ut
+                                    justo. Suspendisse potenti.</div>
                             </div>
                         </div>
                         <!--end faq single-->
@@ -417,11 +449,18 @@
                         <div class="card">
                             <div class="card-header" role="tab" id="faq3">
                                 <h5 class="mb-0">
-                                    <a class="collapsed" data-toggle="collapse" href="#collapse3" aria-expanded="false" aria-controls="collapse3">How much price of the watch?</a>
+                                    <a class="collapsed" data-toggle="collapse" href="#collapse3"
+                                        aria-expanded="false" aria-controls="collapse3">How much price of the
+                                        watch?</a>
                                 </h5>
                             </div>
-                            <div id="collapse3" class="collapse" role="tabpanel" aria-labelledby="faq3" data-parent="#accordion2">
-                                <div class="card-body">Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Phasellus hendrerit. Pellentesque aliquet nibh nec urna. In nisi neque, aliquet vel, dapibus id, mattis vel, nisi. Sed pretium, ligula sollicitudin laoreet viverra, tortor libero sodales leo, eget blandit nunc tortor eu nibh. Nullam mollis. Ut justo. Suspendisse potenti.</div>
+                            <div id="collapse3" class="collapse" role="tabpanel" aria-labelledby="faq3"
+                                data-parent="#accordion2">
+                                <div class="card-body">Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
+                                    Phasellus hendrerit. Pellentesque aliquet nibh nec urna. In nisi neque, aliquet vel,
+                                    dapibus id, mattis vel, nisi. Sed pretium, ligula sollicitudin laoreet viverra,
+                                    tortor libero sodales leo, eget blandit nunc tortor eu nibh. Nullam mollis. Ut
+                                    justo. Suspendisse potenti.</div>
                             </div>
                         </div>
                         <!--end faq single-->
@@ -429,11 +468,17 @@
                         <div class="card">
                             <div class="card-header" role="tab" id="faq4">
                                 <h5 class="mb-0">
-                                    <a class="collapsed" data-toggle="collapse" href="#collapse4" aria-expanded="false" aria-controls="collapse4">How can I get refund?</a>
+                                    <a class="collapsed" data-toggle="collapse" href="#collapse4"
+                                        aria-expanded="false" aria-controls="collapse4">How can I get refund?</a>
                                 </h5>
                             </div>
-                            <div id="collapse4" class="collapse" role="tabpanel" aria-labelledby="faq4" data-parent="#accordion2">
-                                <div class="card-body">Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Phasellus hendrerit. Pellentesque aliquet nibh nec urna. In nisi neque, aliquet vel, dapibus id, mattis vel, nisi. Sed pretium, ligula sollicitudin laoreet viverra, tortor libero sodales leo, eget blandit nunc tortor eu nibh. Nullam mollis. Ut justo. Suspendisse potenti.</div>
+                            <div id="collapse4" class="collapse" role="tabpanel" aria-labelledby="faq4"
+                                data-parent="#accordion2">
+                                <div class="card-body">Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
+                                    Phasellus hendrerit. Pellentesque aliquet nibh nec urna. In nisi neque, aliquet vel,
+                                    dapibus id, mattis vel, nisi. Sed pretium, ligula sollicitudin laoreet viverra,
+                                    tortor libero sodales leo, eget blandit nunc tortor eu nibh. Nullam mollis. Ut
+                                    justo. Suspendisse potenti.</div>
                             </div>
                         </div>
                         <!--end faq single-->
@@ -443,11 +488,17 @@
                         <div class="card">
                             <div class="card-header" role="tab" id="faq5">
                                 <h5 class="mb-0">
-                                    <a class="collapsed" data-toggle="collapse" href="#collapse5" aria-expanded="false" aria-controls="collapse5">How can I order the watch?</a>
+                                    <a class="collapsed" data-toggle="collapse" href="#collapse5"
+                                        aria-expanded="false" aria-controls="collapse5">How can I order the watch?</a>
                                 </h5>
                             </div>
-                            <div id="collapse5" class="collapse" role="tabpanel" aria-labelledby="faq5" data-parent="#accordion2">
-                                <div class="card-body">Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Phasellus hendrerit. Pellentesque aliquet nibh nec urna. In nisi neque, aliquet vel, dapibus id, mattis vel, nisi. Sed pretium, ligula sollicitudin laoreet viverra, tortor libero sodales leo, eget blandit nunc tortor eu nibh. Nullam mollis. Ut justo. Suspendisse potenti.</div>
+                            <div id="collapse5" class="collapse" role="tabpanel" aria-labelledby="faq5"
+                                data-parent="#accordion2">
+                                <div class="card-body">Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
+                                    Phasellus hendrerit. Pellentesque aliquet nibh nec urna. In nisi neque, aliquet vel,
+                                    dapibus id, mattis vel, nisi. Sed pretium, ligula sollicitudin laoreet viverra,
+                                    tortor libero sodales leo, eget blandit nunc tortor eu nibh. Nullam mollis. Ut
+                                    justo. Suspendisse potenti.</div>
                             </div>
                         </div>
                         <!--end faq single-->
@@ -455,11 +506,17 @@
                         <div class="card">
                             <div class="card-header" role="tab" id="faq6">
                                 <h5 class="mb-0">
-                                    <a class="collapsed" data-toggle="collapse" href="#collapse6" aria-expanded="false" aria-controls="collapse6">How can I buy the watch?</a>
+                                    <a class="collapsed" data-toggle="collapse" href="#collapse6"
+                                        aria-expanded="false" aria-controls="collapse6">How can I buy the watch?</a>
                                 </h5>
                             </div>
-                            <div id="collapse6" class="collapse" role="tabpanel" aria-labelledby="faq6" data-parent="#accordion2">
-                                <div class="card-body">Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Phasellus hendrerit. Pellentesque aliquet nibh nec urna. In nisi neque, aliquet vel, dapibus id, mattis vel, nisi. Sed pretium, ligula sollicitudin laoreet viverra, tortor libero sodales leo, eget blandit nunc tortor eu nibh. Nullam mollis. Ut justo. Suspendisse potenti.</div>
+                            <div id="collapse6" class="collapse" role="tabpanel" aria-labelledby="faq6"
+                                data-parent="#accordion2">
+                                <div class="card-body">Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
+                                    Phasellus hendrerit. Pellentesque aliquet nibh nec urna. In nisi neque, aliquet vel,
+                                    dapibus id, mattis vel, nisi. Sed pretium, ligula sollicitudin laoreet viverra,
+                                    tortor libero sodales leo, eget blandit nunc tortor eu nibh. Nullam mollis. Ut
+                                    justo. Suspendisse potenti.</div>
                             </div>
                         </div>
                         <!--end faq single-->
@@ -467,11 +524,17 @@
                         <div class="card">
                             <div class="card-header" role="tab" id="faq7">
                                 <h5 class="mb-0">
-                                    <a class="collapsed" data-toggle="collapse" href="#collapse7" aria-expanded="false" aria-controls="collapse7">How can I get refund?</a>
+                                    <a class="collapsed" data-toggle="collapse" href="#collapse7"
+                                        aria-expanded="false" aria-controls="collapse7">How can I get refund?</a>
                                 </h5>
                             </div>
-                            <div id="collapse7" class="collapse" role="tabpanel" aria-labelledby="faq7" data-parent="#accordion2">
-                                <div class="card-body">Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Phasellus hendrerit. Pellentesque aliquet nibh nec urna. In nisi neque, aliquet vel, dapibus id, mattis vel, nisi. Sed pretium, ligula sollicitudin laoreet viverra, tortor libero sodales leo, eget blandit nunc tortor eu nibh. Nullam mollis. Ut justo. Suspendisse potenti.</div>
+                            <div id="collapse7" class="collapse" role="tabpanel" aria-labelledby="faq7"
+                                data-parent="#accordion2">
+                                <div class="card-body">Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
+                                    Phasellus hendrerit. Pellentesque aliquet nibh nec urna. In nisi neque, aliquet vel,
+                                    dapibus id, mattis vel, nisi. Sed pretium, ligula sollicitudin laoreet viverra,
+                                    tortor libero sodales leo, eget blandit nunc tortor eu nibh. Nullam mollis. Ut
+                                    justo. Suspendisse potenti.</div>
                             </div>
                         </div>
                         <!--end faq single-->
@@ -479,11 +542,18 @@
                         <div class="card">
                             <div class="card-header" role="tab" id="faq8">
                                 <h5 class="mb-0">
-                                    <a class="collapsed" data-toggle="collapse" href="#collapse8" aria-expanded="false" aria-controls="collapse8"> How much price of the watch?</a>
+                                    <a class="collapsed" data-toggle="collapse" href="#collapse8"
+                                        aria-expanded="false" aria-controls="collapse8"> How much price of the
+                                        watch?</a>
                                 </h5>
                             </div>
-                            <div id="collapse8" class="collapse" role="tabpanel" aria-labelledby="faq8" data-parent="#accordion2">
-                                <div class="card-body">Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Phasellus hendrerit. Pellentesque aliquet nibh nec urna. In nisi neque, aliquet vel, dapibus id, mattis vel, nisi. Sed pretium, ligula sollicitudin laoreet viverra, tortor libero sodales leo, eget blandit nunc tortor eu nibh. Nullam mollis. Ut justo. Suspendisse potenti.</div>
+                            <div id="collapse8" class="collapse" role="tabpanel" aria-labelledby="faq8"
+                                data-parent="#accordion2">
+                                <div class="card-body">Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
+                                    Phasellus hendrerit. Pellentesque aliquet nibh nec urna. In nisi neque, aliquet vel,
+                                    dapibus id, mattis vel, nisi. Sed pretium, ligula sollicitudin laoreet viverra,
+                                    tortor libero sodales leo, eget blandit nunc tortor eu nibh. Nullam mollis. Ut
+                                    justo. Suspendisse potenti.</div>
                             </div>
                         </div>
                         <!--end faq single-->
@@ -502,7 +572,8 @@
                 <div class="col-lg-6 offset-lg-3 col-md-8 offset-md-2">
                     <div class="section-heading text-center">
                         <h2>Our Customer Feedback</h2>
-                        <p>Donec nec justo eget felis facilisis fermentum. Aliquam porttitor mauris sit amet orci. Aenean dignissim pellentesque felis.</p>
+                        <p>Donec nec justo eget felis facilisis fermentum. Aliquam porttitor mauris sit amet orci.
+                            Aenean dignissim pellentesque felis.</p>
                     </div>
                 </div>
                 <!--end section heading-->
@@ -522,8 +593,10 @@
                     </div>
                     <div class="client-comment">
                         <span><i class="icofont-quote-left"></i></span>
-                        <p class="mb-2"><i class="icofont-star"></i><i class="icofont-star"></i><i class="icofont-star"></i><i class="icofont-star"></i><i class="icofont-star"></i></p>
-                        <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Donec odio. Quisque volutpat mattis eros. Nullam malesuada erat ut turpis.</p>
+                        <p class="mb-2"><i class="icofont-star"></i><i class="icofont-star"></i><i
+                                class="icofont-star"></i><i class="icofont-star"></i><i class="icofont-star"></i></p>
+                        <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Donec odio. Quisque volutpat mattis
+                            eros. Nullam malesuada erat ut turpis.</p>
 
                     </div>
                 </div>
@@ -541,8 +614,10 @@
                     </div>
                     <div class="client-comment">
                         <span><i class="icofont-quote-left"></i></span>
-                        <p class="mb-2"><i class="icofont-star"></i><i class="icofont-star"></i><i class="icofont-star"></i><i class="icofont-star"></i><i class="icofont-star"></i></p>
-                        <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Donec odio. Quisque volutpat mattis eros. Nullam malesuada erat ut turpis.</p>
+                        <p class="mb-2"><i class="icofont-star"></i><i class="icofont-star"></i><i
+                                class="icofont-star"></i><i class="icofont-star"></i><i class="icofont-star"></i></p>
+                        <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Donec odio. Quisque volutpat mattis
+                            eros. Nullam malesuada erat ut turpis.</p>
 
                     </div>
                 </div>
@@ -560,8 +635,10 @@
                     </div>
                     <div class="client-comment">
                         <span><i class="icofont-quote-left"></i></span>
-                        <p class="mb-2"><i class="icofont-star"></i><i class="icofont-star"></i><i class="icofont-star"></i><i class="icofont-star"></i><i class="icofont-star"></i></p>
-                        <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Donec odio. Quisque volutpat mattis eros. Nullam malesuada erat ut turpis.</p>
+                        <p class="mb-2"><i class="icofont-star"></i><i class="icofont-star"></i><i
+                                class="icofont-star"></i><i class="icofont-star"></i><i class="icofont-star"></i></p>
+                        <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Donec odio. Quisque volutpat mattis
+                            eros. Nullam malesuada erat ut turpis.</p>
 
                     </div>
                 </div>
@@ -579,8 +656,10 @@
                     </div>
                     <div class="client-comment">
                         <span><i class="icofont-quote-left"></i></span>
-                        <p class="mb-2"><i class="icofont-star"></i><i class="icofont-star"></i><i class="icofont-star"></i><i class="icofont-star"></i><i class="icofont-star"></i></p>
-                        <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Donec odio. Quisque volutpat mattis eros. Nullam malesuada erat ut turpis.</p>
+                        <p class="mb-2"><i class="icofont-star"></i><i class="icofont-star"></i><i
+                                class="icofont-star"></i><i class="icofont-star"></i><i class="icofont-star"></i></p>
+                        <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Donec odio. Quisque volutpat mattis
+                            eros. Nullam malesuada erat ut turpis.</p>
 
                     </div>
                 </div>
@@ -598,8 +677,10 @@
                     </div>
                     <div class="client-comment">
                         <span><i class="icofont-quote-left"></i></span>
-                        <p class="mb-2"><i class="icofont-star"></i><i class="icofont-star"></i><i class="icofont-star"></i><i class="icofont-star"></i><i class="icofont-star"></i></p>
-                        <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Donec odio. Quisque volutpat mattis eros. Nullam malesuada erat ut turpis.</p>
+                        <p class="mb-2"><i class="icofont-star"></i><i class="icofont-star"></i><i
+                                class="icofont-star"></i><i class="icofont-star"></i><i class="icofont-star"></i></p>
+                        <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Donec odio. Quisque volutpat mattis
+                            eros. Nullam malesuada erat ut turpis.</p>
 
                     </div>
                 </div>
@@ -617,7 +698,8 @@
                 <div class="col-lg-6 col-md-8">
                     <div class="section-heading">
                         <h2>Contact With Us</h2>
-                        <p>Donec nec justo eget felis facilisis fermentum. Aliquam porttitor mauris sit amet orci. Aenean dignissim pellentesque felis.</p>
+                        <p>Donec nec justo eget felis facilisis fermentum. Aliquam porttitor mauris sit amet orci.
+                            Aenean dignissim pellentesque felis.</p>
                     </div>
                 </div>
                 <!--end section heading-->
@@ -628,15 +710,18 @@
                     <div class="contact-form">
                         <form id="ajax-contact" action="contact.php" method="post">
                             <div class="form-group">
-                                <input type="text" class="form-control" id="name" name="name" placeholder="Name*" required="required" data-error="name is required.">
+                                <input type="text" class="form-control" id="name" name="name"
+                                    placeholder="Name*" required="required" data-error="name is required.">
                                 <div class="help-block with-errors"></div>
                             </div>
                             <div class="form-group">
-                                <input type="email" class="form-control" id="email" name="email" placeholder="Email*" required="required" data-error="valid email is required.">
+                                <input type="email" class="form-control" id="email" name="email"
+                                    placeholder="Email*" required="required" data-error="valid email is required.">
                                 <div class="help-block with-errors"></div>
                             </div>
                             <div class="form-group">
-                                <textarea class="form-control" id="message" name="message" rows="10" placeholder="Write Your Message*" required="required" data-error="Please, leave us a message."></textarea>
+                                <textarea class="form-control" id="message" name="message" rows="10" placeholder="Write Your Message*"
+                                    required="required" data-error="Please, leave us a message."></textarea>
                                 <div class="help-block with-errors"></div>
                             </div>
                             <button type="submit">Submit</button>
@@ -672,7 +757,8 @@
                 </div>
                 <div class="col-lg-6 col-md-7">
                     <div class="copyright-text text-right">
-                        <p>&copy; Copy 2019. All Rights Reserved By <a href="https://themeforest.net/user/thememeta">thememeta</a></p>
+                        <p>&copy; Copy 2019. All Rights Reserved By <a
+                                href="https://themeforest.net/user/thememeta">thememeta</a></p>
                     </div>
                 </div>
             </div>
@@ -680,23 +766,36 @@
     </footer>
     <!--end footer-->
     <!--jQuery js-->
-    <script src="{{asset('js/jquery-3.3.1.min.js')}}"></script>
+    <script src="{{ asset('js/jquery-3.3.1.min.js') }}"></script>
     <!--proper js-->
-    <script src="{{asset('js/popper.min.js')}}"></script>
+    <script src="{{ asset('js/popper.min.js') }}"></script>
     <!--bootstrap js-->
-    <script src="{{asset('js/bootstrap.min.js')}}"></script>
+    <script src="{{ asset('js/bootstrap.min.js') }}"></script>
     <!--magnic popup js-->
-    <script src="{{asset('js/magnific-popup.min.js')}}"></script>
+    <script src="{{ asset('js/magnific-popup.min.js') }}"></script>
     <!--owl carousel js-->
-    <script src="{{asset('js/owl.carousel.min.js')}}"></script>
+    <script src="{{ asset('js/owl.carousel.min.js') }}"></script>
     <!--scrollIt js-->
-    <script src="{{asset('js/scrollIt.min.js')}}"></script>
+    <script src="{{ asset('js/scrollIt.min.js') }}"></script>
     <!--validator js-->
-    <script src="{{asset('js/validator.min.js')}}"></script>
+    <script src="{{ asset('js/validator.min.js') }}"></script>
     <!--contact js-->
-    <script src="{{asset('js/contact.js')}}"></script>
+    <script src="{{ asset('js/contact.js') }}"></script>
     <!--main js-->
-    <script src="{{asset('js/custom.js')}}"></script>
+    <script src="{{ asset('js/custom.js') }}"></script>
+
+
+
+    <script src="{{ mix('js/app.js') }}"></script> <!-- Ensure correct path to your JavaScript file -->
+    <script>
+        // Ensure correct mounting of the Vue application
+        const app = new Vue({
+            el: '#app'
+        });
+    </script>
+
+
+
 </body>
 
 </html>
